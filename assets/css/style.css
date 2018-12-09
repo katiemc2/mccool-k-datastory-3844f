@@ -1,0 +1,25 @@
+
+/* MEDIA STYLES */
+
+
+/* GRID STYLES */
+main {
+  display: grid;
+  grid-gap: 20px
+}
+div#ds-dc-img {
+  grid-column: 1/4;
+}
+div#ds-dc-text {
+  grid-column: 4/10;
+}
+main {
+  display: grid;
+  grid-gap: 20px
+}
+div#ds-ev-text {
+  grid-column: 1/7;
+}
+div#ds-ev-img {
+  grid-column: 7/10;
+}
